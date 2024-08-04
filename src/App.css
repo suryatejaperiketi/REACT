@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+.movie ,.mobile {
+  width:20%;
+  text-align: center;
+  padding: 10px;
+  float: left;
+  
+}
+figure{
+  margin: 0%;
+  box-shadow:2px 2px 4px 6px gray;
+}
+figure img{
+  width: 100%;
+  
+}
+figcaption{
+  padding: 10px;
+  
+}
